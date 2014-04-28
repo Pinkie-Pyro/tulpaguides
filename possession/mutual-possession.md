@@ -1,3 +1,7 @@
+Mutual Posession
+================
+Disclamer: This is the method we use, it may not work for you but you are able to change parts, if you are finding something not working, to achieve mutual possession.
+
 Hi i am Red. I am Pinkie Pie Pyro's Host.
 Pinkie: "And i am Pinkie."
 We found something quite odd with how we interact with each other in the way of how Pinkie interacts with my body.
@@ -41,10 +45,10 @@ One other way you could achieve mutual possession via proxying is to get very go
 what you are effectively trying to do is to give your tulpa access to your senses and body while still having access to that sense/body part at the same time. which is why having parallel processing is important when trying this.
 
 Pinkie: "One thing to note with mutual possession is that normally the host and body are like this:
-![\[Image: 8u2hW6v.png\]][1]
+<img src=http://i.imgur.com/8u2hW6v.png></img>
 
 what you are trying to do is this:
-![\[Image: 3rlrp8x.png\]][2]"
+<img src=http://i.imgur.com/3rlrp8x.png></img>
 
 From what me and Pinkie have been through mutual possession doesn't take much once you get the hang of it.
 
@@ -81,4 +85,4 @@ another addition to this is that the motor skills of the host are used as if it 
 an example you could use to sum up mutual possession is that it is like the body is a driver's ed car, there is a brake that the host can push when ever they need to to stop you from harming yourself and the host"
 
 
-Written by Pinkie Pyro wiht the help of Red_M
+Written by Pinkie Pyro with the help of Red_M
