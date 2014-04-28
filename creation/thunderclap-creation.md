@@ -1,4 +1,4 @@
-# ThunderClap’s Guide on Tulpa Creation
+# ThunderClap's Guide on Tulpa Creation
 
 Questions or comments? Feel free to email me at templeofsyrinx@icloud.com or visit us at http://community.tulpa.info/ 
 
@@ -8,7 +8,7 @@ Questions or comments? Feel free to email me at templeofsyrinx@icloud.com or vis
 
 Hello friend,
 
- If you are a ﬁrst timer to this subject, I would like to take this opportunity to welcome you 
+ If you are a rst timer to this subject, I would like to take this opportunity to welcome you 
 into our little community. We are going to discuss many things in detail in this document, so it is 
 important that throughout the time that you are reading this and beyond, you keep a positive, 
 straightforward attitude approaching the subject. Remember, this experience is entirely personal 
@@ -18,17 +18,17 @@ right or wrong answers, only choices.
 
 ## What is a tulpa?
 
-“I think it is only human nature to want to explore. Find your line and go beyond it. The only limit is the one you set yourself.”
+"I think it is only human nature to want to explore. Find your line and go beyond it. The only limit is the one you set yourself."
 - Felix Baumgartner
 
 Often times, people underestimate the power of their own minds. We take our brain, our 
 thoughts, and our consciousness for granted. Most people do not realize the power they hold 
 within themselves. Yet, day by day, week by week, people walk down streets living what may be 
-perceived to be a normal life. But, as the cliché may go, what really makes life “normal?” Is it 
+perceived to be a normal life. But, as the clich may go, what really makes life "normal?" Is it 
 because we all wear clothes, we all have jobs, and we all follow the same basic routine, 
 robotically, every day? Perhaps it is because we often execute the tasks we are given every 
 day, simply because we have been preforming them since our inception? After doing the same 
-things for a while, we begin to get a tunnel vision of sorts. We lose sight of what is “around us”, 
+things for a while, we begin to get a tunnel vision of sorts. We lose sight of what is "around us", 
 and simply just say focused on what is directly in front of us. If we look at things from the outside, and escape that narrow mindset, we can see all of the things we missed before, simply because we were not thinking straight enough to realize they were there all along.
 
 Tulpa, quite literally, sits in the balance of what is real and what is not real. It breaks the 
@@ -37,12 +37,12 @@ you were to look at it from an outside perspective, outside that tunnel vision, 
 is not so insane, and no so impractical after all. A tulpa is thought made reality. It is when you 
 breathe life into something in an almost godlike way.
 
-By deﬁnition, a tulpa is a consciousness, like yours and mine, that has the ability to think, 
+By denition, a tulpa is a consciousness, like yours and mine, that has the ability to think, 
 feel, speak, and act all on its own. It has its own feelings, its own beliefs, its own preferences, 
 ext. A tulpa is completely independent. Furthermore, they can talk to you just like you can talk to 
 any other human you meet, and even exist in its own form, or body. A tulpa is a consciousness 
 that lives inside of your mind, just like your consciousness does, and can get to know you much 
-better than you know yourself. They have the ability to see out of that “tunnel vision.” They can 
+better than you know yourself. They have the ability to see out of that "tunnel vision." They can 
 give you a perspective on life that you never have seen before, and even come up with 
 perspectives of their own.
 
@@ -52,7 +52,7 @@ outside perspective on things, but most of all, a tulpa is a lifelong friend.
  Next, we should discuss the origins of tulpas, as in, where exactly the idea of having one 
 originated. In Tibetan Buddhism, tulpas are entities created entirely by thought, materialized 
 eventually into a physical form, and are still regarded to as sentient. Eventually, sometime in 
-2011 or 2012, tulpas were revisited by the members of the “paranormal” board (more commonly 
+2011 or 2012, tulpas were revisited by the members of the "paranormal" board (more commonly 
 referred to as /x/) on an image board called 4chan. Sooner or later, members of /x/ began 
 creating tulpas of their own, most likely to see if the concept was real or not. Among these 
 members were Irish and FAQ-man. Irish and FAQ realized eventually that they wanted to let 
@@ -69,7 +69,7 @@ to 3,824 members as of this date.
 
 ## Tulpa Creation
 
-“All creative people want to do the unexpected.”
+"All creative people want to do the unexpected."
  - Hedy Lamarr
 
  This is (obviously) the most important part, so please pay careful attention. In this 
@@ -81,8 +81,8 @@ surrounding creation in general.
 
  The creation of a tulpa is broken down into various phases. Narration, visualization 
 (voice, smell, touch, form, ext.), personality, and imposition. The order in which you execute 
-each phase doesn’t exactly matter, although commonly imposition is usually saved for last, and 
-personality is done ﬁrst.
+each phase doesn't exactly matter, although commonly imposition is usually saved for last, and 
+personality is done rst.
 
 The order in which I have executed each phase is:
 
@@ -104,13 +104,13 @@ skydiving. The choice is entirely up to you.
 
 #### Personality 
 
- First off, we have your tulpa’s personality. Their likes, dislikes, preferences, and traits 
+ First off, we have your tulpa's personality. Their likes, dislikes, preferences, and traits 
 that make them unique and contribute toward sentience. Most people prefer to simply make a 
 list of traits and dictate them to their tulpa. For example, when I created my tulpa, I made a list 
-of 40 or so traits, and began to read them off to her one trait at a time in a manner such as “You 
+of 40 or so traits, and began to read them off to her one trait at a time in a manner such as "You 
 are Placidia (her name), you are calm and collected. You enjoy quiet places and do not like 
-when there is a lot of loud noise.” Notice how the traits and characteristics I chose all relate to 
-each other and make the statement sound more ﬂuent. 
+when there is a lot of loud noise." Notice how the traits and characteristics I chose all relate to 
+each other and make the statement sound more uent. 
 
  There are also various methods regarding how to apply the personality to the tulpa. One 
 that I particularly favor is to imagine your tulpa in your wonderland (if you have one), and picture 
@@ -119,7 +119,7 @@ have your tulpa sort of absorbing these balls. This symbolism is helpful to many
 strongly recommend it if dictation is an issue. 
 
  Of course, you can use whatever symbolism works best for you. The thing with 
-symbolism is it is entirely subjective and as long as you ﬁnd something that works, you're okay. 
+symbolism is it is entirely subjective and as long as you nd something that works, you're okay. 
 So, for example, let's say instead of having your tulpa absorbing energy balls, they are reading 
 books with their personality traits in them. If that works, great, if not, then try something else. If 
 you're going to use symbolism you may be dealing with a lot of trial and error. 
@@ -143,7 +143,7 @@ Narration is the process of interaction with your tulpa (notably talking with th
 be done all day, even when you are otherwise occupied with something else that isn't 
 tulpaforcing. When you are narrating, you are feeding your tulpa attention and building them so 
 they become more solid. Some examples of narration are talking to or with your tulpa, walking 
-with them, ext. Basically, there are an inﬁnite number of ways to narrate.
+with them, ext. Basically, there are an innite number of ways to narrate.
 
  The narration process can be done during the traditional "sitting down with your tulpa" 
 way, called "active forcing" and what is called "passive forcing." Passive forcing is when you are 
@@ -161,8 +161,8 @@ an emotion that is not coming from you and is coming from the tulpa. For example
 a sudden wave of happiness when you put a song on that your tulpa likes, or if they beat you in 
 a game of checkers.
 
- At ﬁrst, when you hear your tulpar respond to you or talk, it may be in your own voice 
-that you typically hear in your head. This is ﬁne, and eventually they will develop their own voice 
+ At rst, when you hear your tulpar respond to you or talk, it may be in your own voice 
+that you typically hear in your head. This is ne, and eventually they will develop their own voice 
 with practice.
 
 #### Visualization 
@@ -184,7 +184,7 @@ more natural. However, if any other method works better for you, do it. You need
 what works best for you, like everything else. 
 
 Tip: If you are struggling to focus on all of your tulpa at once, perhaps try to only imagine small 
-parts of them at a time, or imagine them more distant from you at ﬁrst so that their image is 
+parts of them at a time, or imagine them more distant from you at rst so that their image is 
 easier to take in.
 
 #### Imposition 
@@ -202,14 +202,14 @@ you can feel things such as the texture of their skin, however you are still abl
 hand through their body. A hallucination cannot restrict physical movement. 
 
  The way most people prefer to impose their tulpa's form is to simply look at something 
-ﬂat and imagine their tulpa's form in front of said surface. This is a simple process, however it 
+at and imagine their tulpa's form in front of said surface. This is a simple process, however it 
 takes a lot of time and dedication to master. Now, keep in mind there are many other ways to 
 impose your tulpa. Another popular method is to imagine them standing or walking behind you. 
 This removes the need to have to strain your mind to imagine them in front of you, and instead 
 works on the idea that they are actually there, which is equally as important. Tricking your mind 
 that your tulpa is actually there is equally as important as connecting the senses. Also keep in 
 mind that collaboration with your tulpa during this process can be very helpful. For this one, I 
-recommend exploring the various other guides created to ﬁnd what way works best for you and 
+recommend exploring the various other guides created to nd what way works best for you and 
 your tulpa, if the methods I provided do not work. 
 
 ## Auxiliary Information 
@@ -253,8 +253,8 @@ verify it. I do not see why they couldn't, however they would still ultimately b
 
 Because 
 you need to keep in mind that even if something works for someone else, tulpaforcing is still 
-very subjective and you need to ﬁnd out what works best for you. Just try any method you can 
-ﬁnd to see if it works or not. 
+very subjective and you need to nd out what works best for you. Just try any method you can 
+nd to see if it works or not. 
 
 > This is "self induced schizophrenia"
 
@@ -278,7 +278,7 @@ Although it is rather uncommon, people sometimes create tulpas for what could be
 deemed as "the wrong reasons." While I cannot stop you from doing anything in your own mind, 
 it is best to not create a tulpa for all, but not limited to, these reasons.
 
- - To only fulﬁll sexual desires
+ - To only fulll sexual desires
  - To let frustration out on; to abuse
  - For their form; to only have around just for the sake of looking at them
  - If you plan on getting rid of them later
@@ -298,7 +298,7 @@ change against your will. This is called deviation, and it is when the tulpa cha
 about themself on their own. This is commonly when a tulpa changes it's form or personality 
 against what you originally intended it to be. It is important to make sure that you allow your 
 tulpas to deviate as it is not only a sign of sentience, but it allows them to shape themselves as 
-they see ﬁt. 
+they see t. 
 
 #### "Assuming sentience from the start" 
 
@@ -330,7 +330,7 @@ enough focus. It sometimes can take longer than actually creating the tulpa, and
 very tedious process. It involves completely depriving a tulpa of attention, which is their lifeline.
 
  Hopefully you do not do this, because you should have carefully considered the fact that 
-you would have your tulpa for your whole life in the ﬁrst place. However, if your tulpa agrees 
+you would have your tulpa for your whole life in the rst place. However, if your tulpa agrees 
 with it and you do to, I cannot stop you from doing anything in your own mind.
 
 It speaks for itself.
@@ -356,18 +356,18 @@ happen, just like the rest of this I guess.
 
  There are many ways that a tulpa can achieve possession, and whenever I am asked 
 how it is done, I like to go over two different methods. Both of these are symbolic, so if they 
-don't work, try your best to ﬁnd a different one that does work, as there are many available. 
+don't work, try your best to nd a different one that does work, as there are many available. 
 
- The ﬁrst method is what I like to call the "liquid method." This method involves imagining 
+ The rst method is what I like to call the "liquid method." This method involves imagining 
 your body in your mind. Inside of your body is a colored liquid or aura. This represents you. 
 Now, slowly imagine the substance "pouring" out of your limb/body, until it is completely empty. 
 Next imagine a different colored substance. This next substance represents your tulpa. Now, 
-imagine said substance pouring into the empty area until it has been completely ﬁlled. This 
+imagine said substance pouring into the empty area until it has been completely lled. This 
 symbolizes the tulpa gaining control of the area, just as the pouring out of your substance 
-symbolized you relinquishing control. Movement at ﬁrst will most likely be very slow and twitchy, 
+symbolized you relinquishing control. Movement at rst will most likely be very slow and twitchy, 
 but it is important to practice regularly so your tulpa can get better at this.
 
- The next method is what I like to call the "body suit method", and is what I think the ﬁrst 
+ The next method is what I like to call the "body suit method", and is what I think the rst 
 possession method created. It involves imagining a sort of body-suit in your mind, or just a glove 
 or some other article of clothing representing the area that the tulpa is going to control. Now this 
 method is heavily reliant on the tulpa, so they are going to be doing most of the work trying to 
@@ -380,7 +380,7 @@ that they are in the "front" of your body and you are in "the back", where they 
 Switching is a process that involves disconnecting from all 5 of your senses, and allowing your 
 tulpa to take total control of your entire body. This is a very elaborate process that only some 
 have claimed to be able to pull off, so it is best to research this further if you are interested in it 
-and ﬁnd some guides if you are interested in preforming it. I cannot write too much on the 
+and nd some guides if you are interested in preforming it. I cannot write too much on the 
 process because I have never done it myself. Also keep in mind that you should not do this to 
 escape from reality and make your tulpa take the heat. So, if you are living a rough life, do not 
 just switch so you can pile it all on top of your tulpa to deal with while you sit back in your cozy 
@@ -426,7 +426,7 @@ intentions.
 
 #### Forcing, Tulpaforcing 
 
-Any interaction or communication with one's tulpa that can be considered beneﬁcial for 
+Any interaction or communication with one's tulpa that can be considered benecial for 
 development. Can be done actively, focusing solely on the tulpa, or passively, doing something 
 with but not necessarily focusing on the tulpa. Active tulpaforcing is more effective than passive 
 tulpaforcing. 

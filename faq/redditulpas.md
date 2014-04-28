@@ -1,10 +1,15 @@
-#Frequently Asked Questions
-This will be updated as the community needs it and as we see recurring questions, so check it often. 
+From /r/Tulpas
 
-###General Questions  
+---
+
+## Frequently Asked Questions
+This will be updated as the community needs it and as we see recurring 
+questions, so check it often. 
+
+### General Questions  
 
 *Q:* [*What is a tulpa?*](http://www.reddit.com/r/Tulpas/wiki/index#wiki_what_is_a_tulpa.3F)  
-A: As per the front page, a tulpa is believed to be an autonomous consciousness, existing within their creator’s mind, often with a form of their creator's initial choice and design. A tulpa is entirely sentient and in control of their opinions, feelings, form and movement. They are willingly created by people via a number of techniques to act as companions, muses, and advisers. Tulpa forms can either be visualized in the mind's eye, or with practice seen as a hallucinatory figure.
+A: As per the front page, a tulpa is believed to be an autonomous consciousness, existing within their creator's mind, often with a form of their creator's initial choice and design. A tulpa is entirely sentient and in control of their opinions, feelings, form and movement. They are willingly created by people via a number of techniques to act as companions, muses, and advisers. Tulpa forms can either be visualized in the mind's eye, or with practice seen as a hallucinatory figure.
 
 *Q: Can you describe how this works?*  
 A: By talking and fleshing out something to your own subconscious for so long, you start to receive answers from them. The answers will tend to align themselves with all the preconceived traits you give them. The answers you get may surprise you, and in doing so show independent sentience. This sentience can be thought of as the "core" of the tulpa. The rest is just building a form in your mind for them to take, allowing for deviation of that form, and finally trying to visualize the form and experience it in sensory detail in your own environment until it becomes natural and you do it without thinking about it.
@@ -57,7 +62,7 @@ A: Feel free to ask around. You could make a post for your question if nobody el
 *Q: Have you told your friends/family/co-workers about your tulpa?*  
 A: Some of us have, many haven't. It's really a personal choice.  
 
-###About Tulpa
+### About Tulpa
 
 *Q: What can a tulpa do?*  
 A: The main benefits of a tulpa are first and foremost companionship, and the ability to provide you with different perspectives on anything. Tulpa are often accredited with superior memory recall, and may remind you of the things you easily forget. They've also been known to wake their hosts up at pre-requested times and perform mental arithmetic independently of their creator. However, if that's all you seek to make a tulpa for, you're better off buying a smartphone or PDA. You can't expect to bring a sentient being into the world just to have them help with your homework. More information can be found in the guides section.
@@ -125,7 +130,7 @@ A: Because the mind never totally shuts down, the tulpa continues to exist and b
 *Q: Do tulpa sleep?*  
 A: Some tulpa will sleep at the same time as their creators, others as and when they please, and others do not seem to sleep at all.
 
-###Tulpa Creation Questions  
+### Tulpa Creation Questions  
 
 *Q: How long will it take to make a tulpa?*  
 A:For some time, popular wisdom suggested estimates of '100 hours' or 'just over three months'. However, recent developments suggest this varies extremely from individual to individual, and with their preferred methods some have had success in a matter of weeks, while others struggle to hear their tulpa after months. The long and short of it is, don't worry about how long it'll take. Don't expect results immediately, but don't dismiss early successes either.
@@ -208,7 +213,7 @@ A: No. If you can imagine the form, your tulpa can take that form. Some people h
 *Q: Can I make a tulpa of someone else?*  
 A: Can you? Yes. Is it recommended? Not at all. Forming a tulpa of another person can lead to big identity issues for the tulpa, and will mar the overall progress. [Here's a full post with details](http://www.reddit.com/r/Tulpas/comments/1258e5/psa_dont_ever_try_to_make_tulpas_of_a_fictional/)
 
-###On Mindscapes/Wonderlands
+### On Mindscapes/Wonderlands
 
 *Q: What is a mindscape/wonderland?*
 A: A mindscape, also known popularly as a wonderland, is a mental environment created in the host's mind where the host and tulpa can interact visually with eachother, without the need for the host to impose their tulpa into their physical environment. A wonderland can be revisited time and time again, although it may change under your own will, your tulpa's will, or subconsciously.

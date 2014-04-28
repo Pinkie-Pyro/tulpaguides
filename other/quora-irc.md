@@ -1,7 +1,5 @@
 # Quora's IRC Guide
 
----
-
 Hello all, I thought it would be a good idea to explain how to properly get on 
 IRC using the best possible tools and how to set up things like NickServ 
 accounts. All this information is targeted for the `irc.tulpa.info` servers, 
